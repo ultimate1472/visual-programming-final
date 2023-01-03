@@ -1,0 +1,17 @@
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\c şarp dersi.exe.config
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\c şarp dersi.exe
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\c şarp dersi.pdb
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.Anasayfa.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.kullanicigirisi.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.Properties.Resources.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.exe
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.pdb
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.kullanıcıekle.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.ürünekle.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.ürünlistele.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.cesit_ekleme.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.kullanıcı_listele.resources

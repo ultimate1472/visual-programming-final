@@ -1,0 +1,46 @@
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\c şarp dersi.exe.config
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\c şarp dersi.exe
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\c şarp dersi.pdb
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.Anasayfa.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.kullanicigirisi.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.Properties.Resources.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.exe
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.pdb
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.kullanıcıekle.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.ürünekle.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.ürünlistele.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.cesit_ekleme.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c_şarp_dersi.kullanıcı_listele.resources
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\Google.Protobuf.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\MySql.Data.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\MySqlConnector.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Buffers.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Memory.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\ZstdNet.dll
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\Google.Protobuf.pdb
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\Google.Protobuf.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\MySql.Data.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\MySqlConnector.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Buffers.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Memory.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CASPER\source\repos\c şarp dersi\c şarp dersi\obj\Debug\c şarp dersi.csproj.CopyComplete
